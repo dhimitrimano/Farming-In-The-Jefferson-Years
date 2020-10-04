@@ -1,4 +1,4 @@
-# Farming-In-The-Jefferson-Years
+# Farming In The Jefferson Years
 
 I created this game in 2018, during the time that I was in AP Programming A
 in a time before I was taught what a "class" or "array" was. My US History
